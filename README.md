@@ -10,3 +10,29 @@ extract the correlation parameter set using the Pearson correlation
 ### proposed approach 
 
  ![Explanibl correlation AD_4 (1)](https://github.com/Ermiyas21/Explainable-correlation-AD/assets/75506002/af5b4591-5663-4ac0-9a68-2f5e392fbb81)
+
+### Built With 
+    •	Numpy 
+    •	Pandas 
+    •	Tensorflow 
+    •	Sklearn 
+    •	Scipy    
+
+### Installation  
+Below is an example of how you can instruct install in to your machine and setting up your app.
+
+    1.	Get a API and Clone the repo:  https://github.com/Ermiyas21/Explainable-correlation-AD 
+    2.	Install packages:  install --upgrade dcor, and install minepy 
+    3.	Run the proposed model folder 
+    4.	Run the data model folder 
+ 
+
+
+
+
+
+
+
+
+
+ 

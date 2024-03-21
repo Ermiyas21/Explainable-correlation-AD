@@ -9,7 +9,8 @@ extract the correlation parameter set using the Pearson correlation
 
 ### proposed approach 
 
- ![Explanibl correlation AD_4 (1)](https://github.com/Ermiyas21/Explainable-correlation-AD/assets/75506002/af5b4591-5663-4ac0-9a68-2f5e392fbb81)
+ ![image](https://github.com/Ermiyas21/Explainable-correlation-AD/assets/75506002/46f154b5-751b-4830-988b-04c9903a8997)
+
 
 ### Built With 
     •	Numpy 
